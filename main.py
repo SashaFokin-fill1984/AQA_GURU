@@ -1,3 +1,3 @@
 def hi_name(name):
     print(f'Hello!!!!, {name}')
-hi_name('Sasha')
+hi_name('Serega')
